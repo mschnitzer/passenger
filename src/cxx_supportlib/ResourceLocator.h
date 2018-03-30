@@ -105,12 +105,12 @@ public:
 			originallyPackaged  = true;
 			packagingMethod     = "unknown";
 			binDir              = root + "/bin";
-			supportBinariesDir  = root + "/buildout/support-binaries";
-			helperScriptsDir    = root + "/src/helper-scripts";
+			supportBinariesDir  = root + "/support-binaries";
+			helperScriptsDir    = root + "/helper-scripts";
 			resourcesDir        = root + "/resources";
 			docDir              = root + "/doc";
 			rubyLibDir          = root + "/src/ruby_supportlib";
-			nodeLibDir          = root + "/src/nodejs_supportlib";
+			nodeLibDir          = root + "/nodejs_supportlib";
 			buildSystemDir      = root;
 		}
 	}
