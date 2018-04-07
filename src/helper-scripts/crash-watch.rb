@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/ruby
 # Copyright (c) 2015-2017 Phusion Holding B.V.
 #
 # Permission is hereby granted, free of charge, to any person obtaining
